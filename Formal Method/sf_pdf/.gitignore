@@ -1,0 +1,9 @@
+*.aux
+*.d
+*.glob
+*.ml
+*.mli
+*.rej
+*.toc
+*.vo
+Makefile.conf
